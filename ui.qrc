@@ -1,0 +1,7 @@
+<RCC>
+  <qresource prefix="Source">
+    <file>Frame.png</file>
+    <file>Illustration.png</file>
+    <file>Link icon.png</file>
+  </qresource>
+</RCC>
